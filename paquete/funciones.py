@@ -30,8 +30,9 @@ def camila():
        print("Camila")
        
 
-def eliana():
-       print('eliana')
+def eliana(a,b):
+   resta=a-b
+   return resta
        
 def vale():
    a='VALENTINA'
